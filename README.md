@@ -1,0 +1,1 @@
+# Hungarian settlements in JSON
